@@ -1,0 +1,24 @@
+{
+    "individual": {
+        "version": "1.1.0",
+        "updateDescription": "1. 优化蓝牙连接\n2. 修复已知问题",
+        "updateDescription_en": "1. Optimize Bluetooth connection\n2. Fix known bugs",
+        "updateDescription_ru": "1. Оптимизация Bluetooth\n2. Исправления",
+        "googlePlayUrl": "https://github.com/hixier/zeanso_version/releases/download/v1.1.0/zeanso_individual_v1.1.0.apk",
+        "forceUpdate": false,
+        "iosVersion": "1.1.0",
+        "iosDownloadUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
+        "itemUrl": "itms-apps://itunes.apple.com/cn/app/idYOUR_APP_ID?mt=8"
+    },
+    "org": {
+        "version": "1.1.0",
+        "updateDescription": "1. 优化机构端功能\n2. 提高系统稳定性",
+        "updateDescription_en": "1. Optimize Org features\n2. Stability improvements",
+        "updateDescription_ru": "1. Оптимизация функций\n2. Повышение стабильности",
+        "googlePlayUrl": "https://github.com/hixier/zeanso_version/releases/download/v1.1.0/zeanso_org_v1.1.0.apk",
+        "forceUpdate": false,
+        "iosVersion": "1.1.0",
+        "iosDownloadUrl": "https://apps.apple.com/app/idYOUR_ORG_APP_ID",
+        "itemUrl": "itms-apps://itunes.apple.com/cn/app/idYOUR_ORG_APP_ID?mt=8"
+    }
+}

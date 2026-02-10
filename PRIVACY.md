@@ -17,10 +17,14 @@ Our App connects to external prosthetic devices via Bluetooth Low Energy (BLE). 
 - **Purpose**: To discover, connect to, and communicate with your prosthetic device for parameter adjustment and data monitoring (e.g., step count, battery level).
 - **Data**: We process real-time data from the device, such as sensor readings and device status. This data is processed locally on your device.
 
-### 2.2 Location Information (Android Only)
-- **Purpose**: On the Android operating system, accessing Bluetooth scanning features requires Location permission (Fine Location or Coarse Location).
-- **Usage**: We use location permission **solely** to scan for Bluetooth devices. We do not track, store, or share your GPS location history.
-- **Region Verification**: For authorized institutional users, we may verify your approximate location (Region Code) during the device activation process to ensure the device is being used in the authorized region. This is a one-time check during activation.
+### 2.2 Location Information
+- **Purpose**: 
+    - **Android**: To scan for Bluetooth devices (system requirement).
+    - **iOS & Android**: To verify the authorized region of use for institutional users.
+- **Usage**: 
+    - We use location services to scan for nearby Bluetooth devices.
+    - For **Institutional Users (Org Version)**: We access your approximate location during the device activation or authorization process to verify that the device is being used within its designated region. If the location does not match the authorized region, the device may be locked.
+- **Data Retention**: We do not track or store your continuous GPS location history. Location data is processed instantly for verification purposes.
 
 ### 2.3 User Input
 We may collect information you provide directly, such as:
@@ -57,4 +61,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- By checking our repository: https://github.com/hixier/zeanso
+- By visiting our website: https://zeanso.com

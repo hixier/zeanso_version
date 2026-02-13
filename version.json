@@ -1,12 +1,12 @@
 {
     "individual": {
-        "version": "1.1.0",
+        "version": "1.1.2",
         "updateDescription": "1. 优化蓝牙连接\n2. 修复已知问题",
         "updateDescription_en": "1. Optimize Bluetooth connection\n2. Fix known bugs",
         "updateDescription_ru": "1. Оптимизация Bluetooth\n2. Исправления",
         "googlePlayUrl": "https://play.google.com/store/apps/details?id=zeanso.user",
         "forceUpdate": false,
-        "iosVersion": "1.1.0",
+        "iosVersion": "1.1.2",
         "iosDownloadUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
         "itemUrl": "itms-apps://itunes.apple.com/cn/app/idYOUR_APP_ID?mt=8"
     },
@@ -23,6 +23,7 @@
     }
 
 }
+
 
 
 

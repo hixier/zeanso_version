@@ -7,7 +7,7 @@
         "googlePlayUrl": "https://play.google.com/store/apps/details?id=zeanso.user",
         "forceUpdate": false,
         "iosVersion": "1.1.2",
-        "iosDownloadUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
+        "iosDownloadUrl": "https://apps.apple.com/us/app/zeanso/id6504265861",
         "itemUrl": "itms-apps://itunes.apple.com/cn/app/idYOUR_APP_ID?mt=8"
     },
     "org": {
@@ -18,11 +18,12 @@
         "googlePlayUrl": "https://play.google.com/store/apps/details?id=zeanso.org",
         "forceUpdate": false,
         "iosVersion": "1.1.2",
-        "iosDownloadUrl": "https://apps.apple.com/app/idYOUR_ORG_APP_ID",
+        "iosDownloadUrl": "https://apps.apple.com/us/app/zeansopro/id6759021161D",
         "itemUrl": "itms-apps://itunes.apple.com/cn/app/idYOUR_ORG_APP_ID?mt=8"
     }
 
 }
+
 
 
 
